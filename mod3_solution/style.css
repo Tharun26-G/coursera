@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#food {
+    color: #060606;
+}
+
+.navbar {
+    border: none;
+    background-color: grey;
+    color: #060606;
+}
+
+body {
+    background-color: #f7f0f3;
+    color: rgb(3, 3, 3);
+}
+
+.glyphicon {
+    font-size: 30px;
+    color: rgb(35, 34, 34);
+}
+
+.center {
+    width: 90%;
+    background-color: rgb(1, 1, 1);
+}
+
+.container {
+    background-color: grey;
+}
+
+.text-center {
+    font-size: 30px;
+}
+
+h2 {
+    text-align: center;
+}
+
+#myNavbar ul li a {
+    color: #010101;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: black
+}
